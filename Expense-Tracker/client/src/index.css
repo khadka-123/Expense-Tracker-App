@@ -1,0 +1,64 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content{
+  height: 100vh;
+  padding: 5px;
+}
+.navbar{
+  background-color: rgba(0, 0, 0, 0.825)!important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .btn {
+  color: white !important;
+  text-decoration: none;
+}
+
+.navbar-toggler {
+  border-color: white; /* Optional: Change the border color to white */
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='white' stroke-width='3' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); /* Change the lines to white */
+}
+
+
+.register-page,.login-page{
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.filters{
+  display: flex;
+  justify-content: space-between;
+}
+.anticon svg{
+  font-size: 20px;
+  cursor:pointer;
+}
+.bi-person{
+  color: white;
+}
+
+.display-icons{
+  margin: 20px 0;
+  border: 1px solid rgb(204, 200, 200);
+  border-radius: 4px;
+  padding: 10px;
+}
+.active-icon{
+    color: black;
+  }
+.inactive-icon{
+    color: grey;
+  }
+
+.logout{
+  background-color: rgb(193, 34, 34) !important;
+}
