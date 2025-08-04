@@ -93,13 +93,6 @@ cd client
 npm start     # opens http://localhost:3000
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a branch 
-3. Commit your changes 
-4. Push to branch 
-5. Open a Pull Request
 
 ## 🖼️ Project Screenshot
 
@@ -109,6 +102,13 @@ npm start     # opens http://localhost:3000
 ![chart display](images/chart%20display.png)
 ![date filer transaction](images/date%20filter%20transaction.png)
 
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a branch 
+3. Commit your changes 
+4. Push to branch 
+5. Open a Pull Request
 
 ## 📜 License
 © 2025 Khadka Baniya
