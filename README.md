@@ -101,6 +101,14 @@ npm start     # opens http://localhost:3000
 4. Push to branch 
 5. Open a Pull Request
 
-## 📜 License
+## 🖼️ Project Screenshot
 
+![Login](images/login.png)
+![Register](images/register.png)
+![add transaction](images/add%20transaction.png)
+![chart display](images/chart%20display.png)
+![date filer transaction](images/date%20filter%20transaction.png)
+
+
+## 📜 License
 © 2025 Khadka Baniya
